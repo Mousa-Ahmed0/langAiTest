@@ -1,0 +1,9 @@
+{
+  "common": {
+    "cancel": "İptal",
+    "save": "Kaydet"
+  },
+  "onboarding": {
+    "title": "Hoş geldiniz"
+  }
+}
