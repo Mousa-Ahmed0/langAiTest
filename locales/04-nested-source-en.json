@@ -1,0 +1,18 @@
+{
+  "auth": {
+    "login": {
+      "title": "Login",
+      "button": "Sign in"
+    },
+    "register": {
+      "title": "Create account",
+      "button": "Sign up"
+    }
+  },
+  "dashboard": {
+    "cards": {
+      "users": "Users",
+      "revenue": "Revenue"
+    }
+  }
+}

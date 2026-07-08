@@ -1,0 +1,11 @@
+{
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete"
+  },
+  "onboarding": {
+    "title": "Welcome",
+    "subtitle": "Start your journey"
+  }
+}

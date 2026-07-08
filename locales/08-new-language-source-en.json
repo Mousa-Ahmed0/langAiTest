@@ -1,0 +1,10 @@
+{
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel"
+  },
+  "checkout": {
+    "payNow": "Pay now",
+    "success": "Payment successful"
+  }
+}

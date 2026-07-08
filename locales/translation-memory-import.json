@@ -1,0 +1,20 @@
+[
+  {
+    "source": "Login",
+    "sourceLang": "en",
+    "targetLang": "ar",
+    "translatedText": "تسجيل الدخول"
+  },
+  {
+    "source": "Logout",
+    "sourceLang": "en",
+    "targetLang": "ar",
+    "translatedText": "تسجيل الخروج"
+  },
+  {
+    "source": "Pay now",
+    "sourceLang": "en",
+    "targetLang": "fr",
+    "translatedText": "Payer maintenant"
+  }
+]

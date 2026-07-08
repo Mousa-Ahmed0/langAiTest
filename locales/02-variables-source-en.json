@@ -1,0 +1,7 @@
+{
+  "welcome": "Welcome {{name}}",
+  "messages": "You have {count} messages",
+  "price": "Price: %s",
+  "order": "Order number $1 is ready",
+  "html": "Click <strong>here</strong> to continue"
+}

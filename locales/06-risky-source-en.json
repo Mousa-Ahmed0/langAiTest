@@ -1,0 +1,9 @@
+{
+  "product": {
+    "discount": "Save 50% today",
+    "price": "Only $19.99",
+    "longText": "This is a very long paragraph that should be considered risky because it contains more context than a normal button or label and may require manual review before being published to production.",
+    "brand": "Pay with Stripe",
+    "link": "Read our <a>terms</a> before continuing"
+  }
+}
