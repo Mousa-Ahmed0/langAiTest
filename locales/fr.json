@@ -1,0 +1,9 @@
+{
+  "common": {
+    "cancel": "Annuler",
+    "save": "Sauvegarder"
+  },
+  "onboarding": {
+    "title": "Bienvenue"
+  }
+}
