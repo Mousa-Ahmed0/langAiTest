@@ -1,5 +1,9 @@
 {
   "common": {
-    "save": "حفظ"
+    "cancel": "Abbrechen",
+    "save": "Speichern"
+  },
+  "onboarding": {
+    "title": "Willkommen"
   }
 }
