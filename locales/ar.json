@@ -1,9 +1,11 @@
 {
   "common": {
     "cancel": "إلغاء",
+    "delete": "حذف",
     "save": "حفظ"
   },
   "onboarding": {
+    "subtitle": "ابدأ رحلتك",
     "title": "مرحبا"
   }
 }
