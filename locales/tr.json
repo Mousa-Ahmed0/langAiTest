@@ -1,9 +1,11 @@
 {
   "common": {
     "cancel": "İptal",
+    "delete": "Sil",
     "save": "Kaydet"
   },
   "onboarding": {
+    "subtitle": "Yolculuğunuza başlayın",
     "title": "Hoş geldiniz"
   }
 }
